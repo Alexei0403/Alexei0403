@@ -1,5 +1,8 @@
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
 
 <h2 align="left" id="macropower-tech">Favorite Web Tech</h2>
 
@@ -51,7 +54,6 @@
     </td>
   </tr>
 </table>
-
 
 <h2 align="left" id="macropower-tech">Other Tech</h2>
 
