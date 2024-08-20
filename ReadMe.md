@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
 <br/>
-<img src="./img/1690213508940.gif">
+<img src="./img/1690213508940.gif" width = "100%" height = "auto">
 <br/>
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
